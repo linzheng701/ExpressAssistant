@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">快递助手</string>
+    <string name="database_name">express-assistant</string>
+    <string name="add">添加</string>
+    <string name="list">列表</string>
+    <string name="setting">设置</string>
+    <string name="about">关于</string>
+</resources>
